@@ -16,6 +16,6 @@ step 4:
       Live on port: 8000
       localhost:8000
 
-![alt text](https://raw.githubusercontent.com/sixfacearu/hyperledger-fabric-project/master/tuna-app/image.jpg)
+![alt text](https://raw.githubusercontent.com/sixfacearu/hyperledger-fabric-project/master/tuna-app/image.png)
 
       
